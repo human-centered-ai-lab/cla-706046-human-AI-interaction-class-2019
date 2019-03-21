@@ -1,4 +1,4 @@
-# 19-706046-Human-AI-Interaction-class-2019
+# Human AI Interaction
 This is the class of 2019 of the course "Human-AI Interaction: Designing the Explanation Interface"
 
 GOAL: In this research-based teaching course you will learn about some principles and differences between explainable AI and causability  to design, develop and test how humans and machine learning systems can interact and collaborate for effective decision making. You will learn about the differences between explainable AI and explanability and experiment with explanation user-interface frameworks.
