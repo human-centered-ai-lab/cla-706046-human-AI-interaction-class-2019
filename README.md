@@ -1,4 +1,4 @@
-# Human AI Interaction
+# Human AI Interaction (5 ECTS course, 1 ECTS = 25 to 30 h of students workload)
 This is the class of 2019 of the course "Human-AI Interaction: Designing the Explanation Interface"
 
 GOAL: In this research-based teaching course you will learn about some principles and differences between explainable AI and causability  to design, develop and test how humans and machine learning systems can interact and collaborate for effective decision making. You will learn about the differences between explainable AI and explanability and experiment with explanation user-interface frameworks. Note that causability (similar to usability) includes properties of human intelligence, whilst explainability (explainable AI) deals with properties of computational intelligence (algorithms)
